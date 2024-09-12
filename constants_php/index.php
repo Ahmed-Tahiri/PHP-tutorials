@@ -14,3 +14,9 @@ echo NAME; // here name and NAME are different.
 
 
 // Other than this work same in PHP as in other languages.
+
+
+//  by this method we can also define constants
+define("std_Name", "Usman");
+
+echo std_Name;
